@@ -1,1 +1,5 @@
-A dataset about Wifi Signal Positioning
+The dataset comes from 
+[1] Huang T, Zhao L, Dai Z, et al. Privacy Preserving CSI Fingerprint Device-Free Localization[C]//International Conference on Machine Learning for Cyber Security. Cham: Springer Nature Switzerland, 2022: 27-39.
+[2] Huang H, Huang T, Wang W, et al. Federated Learning and Convex Hull Enhancement for Privacy Preserving WiFi-Based Device-Free Localization[J]. IEEE Transactions on Consumer Electronics, 2023.
+alization
+
